@@ -1,12 +1,11 @@
-# datafun-05-data-at-rest
-Assignment - Files, Exceptions, and SQL
+## Assignment - Files, Exceptions, and SQL
 
 In this assignment, you'll read from data files, process the data, and write to output files. We'll also look at using Python to work with light-weight, file-based relational database SQLite using the sqlite3 module from the Python Standard Library. 
 
-Chapters
+## Chapters
 Work through the book and examples from Chapters 9 and 17.2 (SQL).
 
-Data At Rest
+## Data At Rest
 This module deals with data at rest. Data at rest may be kept in:
 
 files,
